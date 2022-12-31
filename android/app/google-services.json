@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746101645540",
+    "project_id": "khanqaheelahiyah",
+    "storage_bucket": "khanqaheelahiyah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746101645540:android:aaf55464fdca5f70de0cf1",
+        "android_client_info": {
+          "package_name": "com.khanqaheelahiyah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746101645540-555nl5cagm5r7kjmiopre2a6jj4qkiu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1oMUE4Bi0LXHNSY9jJbaKt_fyZpnRqeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746101645540-555nl5cagm5r7kjmiopre2a6jj4qkiu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
